@@ -6,7 +6,7 @@
 /*   By: brunogue <brunogue@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/29 15:47:05 by brunogue          #+#    #+#             */
-/*   Updated: 2024/07/31 18:27:15 by brunogue         ###   ########.fr       */
+/*   Updated: 2025/04/14 12:56:30 by brunogue         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,9 +28,8 @@ int	ft_strncmp(char *s1, char *s2, unsigned int n)
 	}
 	return (0);
 }
-
+/*
 #include <stdio.h>
-
 int	main(void)
 {
 	char *s1 = "aaddjojihuĺ";
@@ -38,4 +37,4 @@ int	main(void)
 
 	printf("%d", ft_strncmp(s1, s2, 9));
 	return (0);
-}
+}*/

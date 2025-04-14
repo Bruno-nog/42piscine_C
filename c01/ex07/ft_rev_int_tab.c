@@ -6,7 +6,7 @@
 /*   By: brunogue <brunogue@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/18 06:25:55 by brunogue          #+#    #+#             */
-/*   Updated: 2024/07/22 12:58:07 by brunogue         ###   ########.fr       */
+/*   Updated: 2025/04/14 12:58:24 by brunogue         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,7 +26,7 @@ void	ft_rev_int_tab(int *tab, int size)
 		invert--;
 	}
 }
-
+/*
 #include <stdio.h>
 
 int	main(void)
@@ -45,3 +45,4 @@ int	main(void)
 	}
 	return (0);
 }
+*/
